@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently Studying at the University of Bedfordshire, Undergraduate<br>🌱 I’m currently learning Dart
+🎓 I’ve recently graduated with a BSc in Computer Science & Software Engineering from the University of Bedfordshire.<br>
+🌱 I’m currently diving deeper into Dart and exploring more around Flutter development.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rZoysa&icon=0&color=0)](https://visitcount.itsvg.in)
